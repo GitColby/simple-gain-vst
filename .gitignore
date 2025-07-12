@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# JUCE Builds
+**/build/
+**/*.app
+**/*.vst3
+**/*.component
+
+# Xcode metadata
+*.xcuserdatad/
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Backup files
+*~  
+
