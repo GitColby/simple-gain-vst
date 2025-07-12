@@ -1,3 +1,18 @@
+
+# macOS
+.DS_Store
+
+# Xcode user data
+*.xcuserdatad/
+*.xcuserstate
+*.xcworkspace/
+
+# JUCE build output
+**/build/
+*.app
+*.vst3
+*.component
+ø
 # macOS system files
 .DS_Store
 
