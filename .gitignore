@@ -1,6 +1,23 @@
 # macOS system files
 .DS_Store
 
+# Build products
+**/build/
+*.vst3
+*.component
+*.app
+*.a
+*.so
+*.dylib
+*.o
+
+# Xcode IDE metadata
+*.xcuserdatad/
+*.xcworkspace/
+*.xcuserstate
+# macOS system files
+.DS_Store
+
 # JUCE Builds
 **/build/
 **/*.app
