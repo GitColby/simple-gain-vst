@@ -7,9 +7,9 @@
 ## 🖼️ UI Screenshots
 
 <p align="center">
-  <img src="SimpleGain/images/screenshot.png" width="250" alt="Original Gain UI"/>
+  <img src="SimpleGain/Image/screenshot.png" width="250" alt="Original Gain UI"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="SimpleGain/images/screenshot2.png" width="400" alt="Updated Gain UI"/>
+  <img src="SimpleGain/Image/screenshot2.png" width="400" alt="Updated Gain UI"/>
 </p>
 
 ---
@@ -89,20 +89,6 @@ This project is licensed under the MIT License.
 Created by Colby Weiser
 
 If you found this plugin helpful or learned something from the code, feel free to give the repo a ⭐!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to:
-
-- Turn this into a `.md` or `.pdf` file for upload
-- Add a “How to Use” section for users in DAWs
-- Draft a professional LinkedIn post to promote the release
-
-Want a version with badges too (e.g. “Built with JUCE”, “MIT License”, “First Plugin”)? I can add those as well.
 
 
 
