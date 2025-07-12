@@ -41,10 +41,10 @@
  #define JucePlugin_Enable_ARA             0
 #endif
 #ifndef  JucePlugin_Name
- #define JucePlugin_Name                   "SimpleGain"
+ #define JucePlugin_Name                   "Simple Gain 4"
 #endif
 #ifndef  JucePlugin_Desc
- #define JucePlugin_Desc                   "SimpleGain"
+ #define JucePlugin_Desc                   "Simple Gain 4"
 #endif
 #ifndef  JucePlugin_Manufacturer
  #define JucePlugin_Manufacturer           "yourcompany"
@@ -59,7 +59,7 @@
  #define JucePlugin_ManufacturerCode       0x4d616e75
 #endif
 #ifndef  JucePlugin_PluginCode
- #define JucePlugin_PluginCode             0x556a3978
+ #define JucePlugin_PluginCode             0x50396679
 #endif
 #ifndef  JucePlugin_IsSynth
  #define JucePlugin_IsSynth                0
@@ -101,19 +101,19 @@
  #define JucePlugin_AUSubType              JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_AUExportPrefix
- #define JucePlugin_AUExportPrefix         SimpleGainAU
+ #define JucePlugin_AUExportPrefix         SimpleGain4AU
 #endif
 #ifndef  JucePlugin_AUExportPrefixQuoted
- #define JucePlugin_AUExportPrefixQuoted   "SimpleGainAU"
+ #define JucePlugin_AUExportPrefixQuoted   "SimpleGain4AU"
 #endif
 #ifndef  JucePlugin_AUManufacturerCode
  #define JucePlugin_AUManufacturerCode     JucePlugin_ManufacturerCode
 #endif
 #ifndef  JucePlugin_CFBundleIdentifier
- #define JucePlugin_CFBundleIdentifier     com.yourcompany.SimpleGain
+ #define JucePlugin_CFBundleIdentifier     com.yourcompany.SimpleGain4
 #endif
 #ifndef  JucePlugin_AAXIdentifier
- #define JucePlugin_AAXIdentifier          com.yourcompany.SimpleGain
+ #define JucePlugin_AAXIdentifier          com.yourcompany.SimpleGain4
 #endif
 #ifndef  JucePlugin_AAXManufacturerCode
  #define JucePlugin_AAXManufacturerCode    JucePlugin_ManufacturerCode
@@ -137,7 +137,7 @@
  #define JucePlugin_IAASubType             JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_IAAName
- #define JucePlugin_IAAName                "yourcompany: SimpleGain"
+ #define JucePlugin_IAAName                "yourcompany: Simple Gain 4"
 #endif
 #ifndef  JucePlugin_VSTNumMidiInputs
  #define JucePlugin_VSTNumMidiInputs       16
@@ -152,10 +152,10 @@
  #define JucePlugin_ARATransformationFlags  0
 #endif
 #ifndef  JucePlugin_ARAFactoryID
- #define JucePlugin_ARAFactoryID           "com.yourcompany.SimpleGain.factory"
+ #define JucePlugin_ARAFactoryID           "com.yourcompany.SimpleGain4.factory"
 #endif
 #ifndef  JucePlugin_ARADocumentArchiveID
- #define JucePlugin_ARADocumentArchiveID   "com.yourcompany.SimpleGain.aradocumentarchive.1.0.0"
+ #define JucePlugin_ARADocumentArchiveID   "com.yourcompany.SimpleGain4.aradocumentarchive.1.0.0"
 #endif
 #ifndef  JucePlugin_ARACompatibleArchiveIDs
  #define JucePlugin_ARACompatibleArchiveIDs  ""
